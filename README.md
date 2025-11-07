@@ -1,5 +1,7 @@
 Username: camilin0811
 EMAIL: andres.munozbol@campusucc.edu.co-cammb1004@gamil.com
+
+
 El presente proyecto, titulado “Plataforma de Registro y Control de Eventos”,
 se desarrolla como requisito académico para la asignatura de Ingeniería de Requisitos, del programa de Ingeniería de Software del Campus Pasto. 
 Su propósito es aplicar los principios y metodologías del análisis y gestión de requerimientos de software,
