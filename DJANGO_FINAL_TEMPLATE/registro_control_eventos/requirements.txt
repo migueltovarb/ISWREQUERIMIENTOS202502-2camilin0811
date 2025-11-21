@@ -5,7 +5,7 @@
 Django==5.2.8
 
 # Base de datos
-psycopg2-binary==2.9.9  # PostgreSQL (opcional, para producción)
+# psycopg2-binary==2.9.9  # PostgreSQL (opcional, para producción)  <-- comentado para evitar build nativo en Windows
 
 # Manejo de variables de entorno
 python-dotenv==1.0.0
